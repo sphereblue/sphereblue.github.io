@@ -440,10 +440,13 @@ White Form Style
 
 
 
-
 /* ================= Color Presets ==================== */
 .brand-color {
-    color: #03a9f4 !important;
+    color: #5c5c5c !important;
+}
+
+.brand-secondary-color {
+    color: #5c5c5c !important;
 }
 
 .brand-bg {
@@ -453,7 +456,6 @@ White Form Style
 .brand-bg.darken-2 {
     background-color: #0288d1 !important;
 }
-
 
 
 
@@ -704,7 +706,7 @@ White Form Style
 .copy-text,
 .copy-text a:hover,
 .footer-intro a:hover {
-    color: #81ddff;
+    color: #777777;
 }
 
 
